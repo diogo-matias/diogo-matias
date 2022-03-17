@@ -1,10 +1,3 @@
-### Hello World! 👋
-
-<!--
-Hi! This is an easter egg.
-Congratulations you found the first one!
--->
-
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 
 <!-- # 👀 Hi stranger! 👋🏻 -->
