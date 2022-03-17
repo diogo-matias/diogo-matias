@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello World! 👋
 
 <!--
 Hi! This is an easter egg.
@@ -11,11 +11,10 @@ Congratulations you found the first one!
 
 # 🤔 About me:
 
+- 🎵 Singer | Music lover 🎵
 - 🐈 dog dad 😻
 - Professional 🐛 solver
-- 👨🏻‍💻 Full-Stack Developer
-- 💊 Coding the Matrix
-- 😍 Emoji lover
+- 👨🏻‍💻 Full-Stack Developer Student
 - 🚀 One day I will see humans on Mars!
 
 <!-- Watch this: https://www.youtube.com/watch?v=eC7xzavzEKY -->
