@@ -2,6 +2,9 @@
 
 <!-- # 👀 Hi stranger! 👋🏻 -->
 
+<br>
+
+<h1> About me: </h1>
 
 - 👨🏻‍💻 Full-Stack Developer Student
 - 🎵 Singer | Music lover 🎵
