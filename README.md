@@ -24,7 +24,8 @@
 
 ☝️ Studing this linguages ☝️
 
-<div align="left">
+
+<div style="display: flex; align-items: center; justify-content: center;">
 <a href="https://github.com/diogo-matias">
 <div align="left">
 <img  width="364px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogo-matias&layout=compact&langs_count=7&theme=onedark"/>
