@@ -11,10 +11,10 @@ Congratulations you found the first one!
 
 # 🤔 About me:
 
+- 👨🏻‍💻 Full-Stack Developer Student
 - 🎵 Singer | Music lover 🎵
 - 🐈 dog dad 😻
 - Professional 🐛 solver
-- 👨🏻‍💻 Full-Stack Developer Student
 - 🚀 One day I will see humans on Mars!
 
 <!-- Watch this: https://www.youtube.com/watch?v=eC7xzavzEKY -->
