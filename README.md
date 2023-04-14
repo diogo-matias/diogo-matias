@@ -1,5 +1,7 @@
 ![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
 
+![Snake animation](https://github.com/{{your_username}}/{{your_username}}/blob/output/github-contribution-grid-snake.svg)
+
 ![React](https://img.shields.io/badge/React_JS_/_Native-007ACC?style=for-the-badge&logo=react&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-f5d742?style=for-the-badge&logo=javascript&logoColor=black)
 ![Typesript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
