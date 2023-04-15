@@ -16,21 +16,20 @@
 
 <h2> About me </h2>
 
-- 👨🏻‍💻 Full-Stack Developer
-- 📗 Trainee at Arezzo&Co
+- 💻 Full-Stack Developer
+- ⭐ I'm currently working at Arezzo&Co with React Native / JS
+- 🏡 Brazilian, Based in Campo Bom, RS
 
-</br >
-
-<div>
-<h2 style="margin: 5px 10px;">GitHub Statistics</h2> 
+<!-- <h2>Projects</h2> -->
+ 
+<div> 
+<h2>GitHub Statistics</h2> 
 <div style="display: flex; align-items: center; justify-content: center;">
-
   <a>
     <img width='49%' src='https://github-readme-stats.vercel.app/api?username=diogo-matias&show_icons=true&theme=tokyonight&hide_border=true&locale=en'>
   </a>
   <a >
      <img width='49%'  src='https://github-readme-streak-stats.herokuapp.com/?user=diogo-matias&theme=tokyonight&hide_border=true'>
   </a>
-  
 </div>
 </div>
