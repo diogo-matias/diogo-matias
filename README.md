@@ -1,6 +1,6 @@
 <!-- ![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg) -->
 
-![Snake animation](https://github.com/diogo-matias/diogo-matias/blob/output/github-contribution-grid-snake.svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=00ABF7&repeat=false&width=435&lines=Hello%2C+I'm+Diogo!)](https://git.io/typing-svg)
 
 ![React](https://img.shields.io/badge/React_JS_/_Native-007ACC?style=for-the-badge&logo=react&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-f5d742?style=for-the-badge&logo=javascript&logoColor=black)
