@@ -21,8 +21,8 @@
 - 🏡 Brazilian, Based in Campo Bom, RS
 
 <!-- <h2>Projects</h2> -->
- 
-<div> 
+
+ <!-- <div> 
 <h2>GitHub Statistics</h2> 
 <div style="display: flex; align-items: center; justify-content: center;">
   <a>
@@ -33,3 +33,5 @@
   </a>
 </div>
 </div>
+ -->
+
