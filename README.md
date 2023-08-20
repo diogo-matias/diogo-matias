@@ -13,6 +13,7 @@
 ![Redux](https://img.shields.io/badge/Redux_Toolkit-890CFF?style=for-the-badge&logo=redux&logoColor=white)
 ![ReduxSaga](https://img.shields.io/badge/Redux_Saga-b3ec98?style=for-the-badge&logo=reduxsaga&logoColor=black)
 ![jest](https://img.shields.io/badge/Jest-f54842?style=for-the-badge&logo=jest&logoColor=white)
+![Express](https://img.shields.io/badge/Express-f54842?style=for-the-badge&logo=express&logoColor=white)
 
 <h2> About me </h2>
 
