@@ -18,6 +18,7 @@
 
 <h2> About me </h2>
 
+
 - 💻 Full-Stack Developer
 - ⭐ I'm currently working at Arezzo&Co with React Native
 - 🏡 Brazilian, Based in Campo Bom, RS
