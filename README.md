@@ -1,4 +1,5 @@
 <!-- ![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg) -->
+<!-- https://simpleicons.org/ -->
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=00ABF7&width=435&lines=Hello%2C+I'm+Diogo!)](https://git.io/typing-svg)
 
