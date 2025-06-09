@@ -4,6 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=00ABF7&width=435&lines=Hello%2C+I'm+Diogo!)](https://git.io/typing-svg)
 
 ![React](https://img.shields.io/badge/React_JS_/_Native-007ACC?style=for-the-badge&logo=react&logoColor=white)
+![Dotnet](https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-f5d742?style=for-the-badge&logo=javascript&logoColor=black)
 ![Typesript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
