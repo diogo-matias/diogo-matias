@@ -14,7 +14,7 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Redux](https://img.shields.io/badge/Redux_Toolkit-890CFF?style=for-the-badge&logo=redux&logoColor=white)
-![ReduxSaga](https://img.shields.io/badge/Redux_Saga-b3ec98?style=for-the-badge&logo=reduxsaga&logoColor=black)
+![ReduxSaga](https://img.shields.io/badge/Redux_Saga-green?style=for-the-badge&logo=reduxsaga&logoColor=white)
 ![jest](https://img.shields.io/badge/Jest-f54842?style=for-the-badge&logo=jest&logoColor=white)
 ![NextJS](https://img.shields.io/badge/Next_JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![tailwindcss](https://img.shields.io/badge/Tailwind-fff?style=for-the-badge&logo=tailwindcss&logoColor=black)
